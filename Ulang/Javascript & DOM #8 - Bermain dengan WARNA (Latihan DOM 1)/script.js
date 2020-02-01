@@ -39,9 +39,9 @@ const tombol = document.getElementById('tombol')
 
 tombol.onclick = () => {
    
-   x = Math.trunc(Math.random() * 256)
-   y = Math.trunc(Math.random() * 256)
-   z = Math.trunc(Math.random() * 256)
+   x = Math.trunc(Math.random() * 255)
+   y = Math.trunc(Math.random() * 255)
+   z = Math.trunc(Math.random() * 255)
    
    const rgb = `rgb(${x},${y},${z})`
    document.body.style.backgroundColor = rgb
