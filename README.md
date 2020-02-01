@@ -7,3 +7,4 @@
 - Javascript & DOM #7 - DOM Events (https://codepen.io/khairul-abdi/pen/GRgLBdP)
 - Javascript & DOM #7 - DOM Events2 ||Location = Javascript_DOM/Ulang/Javascript&DOM#7-DOMEvents/ (https://codepen.io/khairul-abdi/pen/VwYJozB)
 - Javascript & DOM #8 - Bermain dengan WARNA (Latihan DOM 1) (https://codepen.io/khairul-abdi/pen/wvBZxXL)
+- Javascript & DOM #8 - Bermain dengan WARNA (Latihan DOM 2) (https://codepen.io/khairul-abdi/pen/MWYNWVM)
