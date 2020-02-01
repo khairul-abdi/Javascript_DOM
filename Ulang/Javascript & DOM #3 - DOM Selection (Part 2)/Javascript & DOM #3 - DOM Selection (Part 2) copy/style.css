@@ -1,0 +1,41 @@
+* {
+   border: 2px solid #dedede;
+   padding: 15px;
+   margin: 15px;
+}
+
+html {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   max-width:  600px;
+   margin: 30px auto;
+   font-family: sans-serif;
+   color: #333;
+}
+
+
+/* 1. Cara Memberi Selector */
+/* #b p {
+   color: green;
+} */
+
+
+/* 2. Cara Memberi Selector */
+
+/* #b ul li:nth-child(2) {
+   background-color: orange;
+} */
+
+
+
+/* #b ul li:nth-child(2) {
+   background-color: orange;
+}
+
+
+#b p {
+   color: green;
+} */
