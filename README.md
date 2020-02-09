@@ -10,4 +10,4 @@
 - [Javascript & DOM #8 - Bermain dengan WARNA (Latihan DOM 1)](https://codepen.io/khairul-abdi/pen/wvBZxXL)
 - [Javascript & DOM #8 - Bermain dengan WARNA (Latihan DOM 1)](https://codepen.io/khairul-abdi/pen/MWYNWVM)
 - [Javascript & DOM #8 - Bermain dengan WARNA (Latihan DOM 1)](https://codepen.io/khairul-abdi/pen/MWYNWVM)
-- [Javascript & DOM  - Todo List](https://codepen.io/khairul-abdi/pen/rNVabao)
+- [ES6(OOP) & DOM  - Todo List](https://codepen.io/khairul-abdi/pen/rNVabao)
